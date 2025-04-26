@@ -1,7 +1,5 @@
 # GANHide: A GAN-Based Steganography System
 
-![Project Banner](https://via.placeholder.com/800x200.png?text=GANHide+Steganography+System)
-
 **GANHide** is a machine learning project that leverages Generative Adversarial Networks (GANs) to perform steganography—hiding messages within images in a way that is imperceptible to human observers while ensuring reliable message recovery. This project uses a conditional GAN (cGAN) to embed 8-bit binary messages into 8x8 grayscale images from the UCI Optical Recognition of Handwritten Digits dataset, with a separate CNN-based Extractor to recover the messages.
 
 ## Table of Contents
